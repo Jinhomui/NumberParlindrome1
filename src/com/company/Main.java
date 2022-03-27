@@ -26,7 +26,7 @@ public class Main {
             count++;
             Digitcount=0;
             System.out.println(number);
-            System.out.println(Digitcount);
+
         }
 
         return false;
